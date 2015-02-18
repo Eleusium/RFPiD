@@ -1,3 +1,8 @@
+This Project read RFID-data from a Pollux Serial RFID reader, Compares against a SQLite database.
+
+
+
+
 This is code to read data from a ID-20 RFID reader connected to a sparkfun USB breakout board   
 https://www.sparkfun.com/products/11505 for the ID-12 + USB board Kit $49.99  
 
